@@ -7,9 +7,7 @@ nav{
     display: flex;
     justify-content: space-between;
 }
-
 header{
-    padding-top: 30px;
     padding-bottom: 80px;
 }
 .container{
